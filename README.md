@@ -1,4 +1,4 @@
-ArcanoidGame:
+ArcanoidGame in Python:
 The Arcanoid_Capstone(1).py program demonstrates the Arkanoid game which is an arcade game
 from the 1980's. The player controls with the mouse a rectangular craft at the bottom of the screen, moving left
 and right, to deflect a ball and eliminate a number of bricks by hitting them with the ball. The score increase by
